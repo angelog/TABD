@@ -1,0 +1,1 @@
+{"clients": ["cpf", "view", "clientID"], "vendas": ["produtoID", "price", "clientID"], "baseconfig": ["root", "97855818", "localhost", "tabd"], "view": ["view", "0"], "colunas": ["cpf"], "apriori": true, "transaction": "clientID", "item": "produtoID", "suporte": "0.5", "confianca": "0.7"}
