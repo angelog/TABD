@@ -1,6 +1,6 @@
 # **Tópicos Avançados de Banco de Dados.**
  ## Anonimização
-**Objetivo** : Desenvolver uma API para anonimalização de dados, para criação de relatórios.
+**Objetivo** : Aplicar algum método de LGPD, com isso foi desenvolvido uma API para anonimalização de dados, na intenção de gerar relatórios sem nenhum perigo de violar a segurança dos dados pessoais do cliente.
 ## Para Execução da API
 - Bibliotecas necessárias para a execução:
 ```
