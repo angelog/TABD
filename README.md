@@ -1,6 +1,11 @@
 # **Tópicos Avançados de Banco de Dados.**
  ## Anonimização
-**Objetivo** : Aplicar algum método de LGPD, com isso foi desenvolvido uma API para anonimalização de dados, na intenção de gerar relatórios sem nenhum perigo de violar a segurança dos dados pessoais do cliente.
+ ### O que é anonimização de dados?
+- A anonimização é um método de preservação de informações privadas ou confidenciais por meio da exclusão ou codificação de identificadores que vinculam indivíduos aos dados armazenados. Sua finalidade é garantir a privacidade de uma pessoa ou empresa, preservando a credibilidade dos dados coletados e eventualmente repassados.
+- Lei Geral de Proteção de Dados brasileira, a LGPD, no inciso XI do art. 5º, anonimização é: 
+“utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo”.
+
+**Objetivo** : Desenvolver uma API para anonimalização de dados, na intenção de gerar relatórios sem nenhum perigo de violar a segurança dos dados pessoais do cliente.
 ## Para Execução da API
 - Bibliotecas necessárias para a execução:
 ```
